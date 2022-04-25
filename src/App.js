@@ -27,7 +27,7 @@ function App() {
 
       <DivNave>
         <Nav>
-          <P>Portifólio</P>
+          <P>Portfólio</P>
           <ul>
             <li><a href="">Home</a></li>
             <li><a href="#sobre-min">Sobre mim</a></li>
